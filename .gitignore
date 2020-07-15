@@ -1,4 +1,5 @@
 
 project_env/
 requirements.txt
-.bash_profile
+.env
+
