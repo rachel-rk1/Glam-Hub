@@ -1,2 +1,2 @@
 # Glam-Hub
-School project
+Beauty-Hub
